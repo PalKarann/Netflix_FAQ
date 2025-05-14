@@ -1,0 +1,53 @@
+/* *{
+    background-color: black;
+} */
+body{
+    background-color: black;
+    color: white;
+}
+h3{
+    color: white;
+    padding: 0px;
+    text-align: center;
+    font-size: 35px;
+}
+h2{
+    color: white;
+    padding: 30px;
+    background-color: rgb(51, 50, 50);
+    margin: 0;
+}
+.show{
+    display: block;
+    background-color: rgb(51, 50, 50);
+    width: 1000px;
+}
+.hide{
+    display: none;
+    /* background-color: white; */
+}
+#arrangment{
+    color: white;
+    padding: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+
+.que{
+    width: 1000px;
+    border-bottom: 1px solid black;
+    /* display: flex; */
+}
+
+p{
+    padding: 30px;
+    margin: 0;
+}
+
+.faq{
+    margin: 0;
+}
